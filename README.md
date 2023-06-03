@@ -30,8 +30,8 @@
 
 <table>
 <tr>
-<td><img src="ReadMeAssets/Screenshot1.png" alt="Screenshot"></td>
-<td><img src="ReadMeAssets/Screenshot2.png" alt="Screenshot"></td>
+<td><img src="ReadMeAssets/Screenshot1.jpg" alt="Screenshot"></td>
+<td><img src="ReadMeAssets/Screenshot2.jpg" alt="Screenshot"></td>
 </tr>
 </table>
 
